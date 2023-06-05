@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/status-em_desenvolvimento-important?style=for-the-badge" alt="Status - Em desenvolvimento">
 </p>
 
+<div align="center">
+  <img src="https://github.com/lvamorim/youflix/assets/118397791/2ca57581-22db-4576-92d4-a7689cdb3a57" alt="YouFlix" width="500px">
+</div>
+
 <br>
 
 ## Tópicos
