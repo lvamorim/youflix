@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "url": "https://youtu.be/2ow-9oyca40",
+      "title": "Trippie Redd – Miss The Rage ft. Playboi Carti",
+      "description": "Primeira música adicionada.",
+      "category": "Músicas"
+    },
+    {
+      "id": 2,
+      "url": "https://youtu.be/NzXGXMgdGOI",
+      "title": "Yeat - Flawlëss (feat. Lil Uzi Vert)",
+      "description": "Nova música adicionada.",
+      "category": "Músicas"
+    },
+    {
+      "id": 3,
+      "url": "https://youtu.be/9jDiAcqbO0c",
+      "title": "Yung Lean - Hoover",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Músicas"
+    },
+    {
+      "id": 4,
+      "url": "https://youtu.be/1eoSanFCU-M",
+      "title": "Lil Uzi Vert - Money Longer",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Músicas"
+    },
+    {
+      "id": 5,
+      "url": "https://youtu.be/ZAz3rnLGthg",
+      "title": "Kanye West - Flashing Lights",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Músicas"
+    },
+    {
+      "id": 6,
+      "url": "https://youtu.be/xxzBTdZJm9Q",
+      "title": "Shiba Inu",
+      "description": "Primeiro vídeo sobre animais.",
+      "category": "Animais"
+    },
+    {
+      "id": 7,
+      "url": "https://youtu.be/yYp_Shk7XcI",
+      "title": "Pandas",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Animais"
+    },
+    {
+      "id": 8,
+      "url": "https://youtu.be/L913rOIhWYo",
+      "title": "Encontro de filhotes",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Animais"
+    },
+    {
+      "id": 9,
+      "url": "https://youtu.be/WDt24qzK2Ig",
+      "title": "Pinguins",
+      "description": "Nenhuma descrição disponível para este vídeo.",
+      "category": "Animais"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Músicas",
+      "description": "Minhas músicas favoritas.",
+      "color": "#a400a4"
+    },
+    {
+      "id": 2,
+      "name": "Animais",
+      "description": "Vídeos legais.",
+      "color": "#008040"
+    }
+  ]
+}
